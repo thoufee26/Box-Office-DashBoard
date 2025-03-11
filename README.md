@@ -1,8 +1,10 @@
 # Box-Office-DashBoard
 Overview
+
 This repository contains a comprehensive Power BI dashboard analyzing box office movie data. It showcases insightful visualizations and key metrics, providing valuable information about the movie industry.
 
 Key Features
+
 Financial Analysis: Explore budgets, opening day collections, weekend collections, and lifetime gross for major production houses.
 
 Geographic Analysis: View movie data by country, including total collections and distribution patterns.
@@ -12,8 +14,8 @@ Production & Distribution Insights: Analyze the performance of production houses
 Ratings & Reviews: Assess IMDb ratings, genres, and subscriber data across distribution companies.
 
 Visualizations
-The dashboard includes:
 
+The dashboard includes:
 Column and Bar Charts: For financial and production comparisons.
 
 Maps: For geographic trends in total collections.
