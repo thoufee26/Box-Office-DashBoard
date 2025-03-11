@@ -25,9 +25,12 @@ Filters: To slice data by language, genre, or country.
 KPIs: Highlighting total collections, budgets, and more.
 
 Tools & Technologies Used
+
 Power BI: Dashboard creation.
 
+
 About the Data
+
 The dataset includes details such as:
 
 Movie names, production houses, budgets, and collections.
