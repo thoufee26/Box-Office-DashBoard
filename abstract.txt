@@ -1,0 +1,35 @@
+
+## Box Office Data Dashboard
+
+### Abstract
+
+The Box Office Data Dashboard is an analytical tool designed to provide comprehensive insights into the financial performance, geographic distribution, and production details of movies. This project leverages data visualization to present key metrics and trends in the movie industry, enabling users to make data-driven decisions.
+
+### Key Features
+
+1. Financial Analysis:
+   - Total Lifetime Gross by Production House: Visual representation of lifetime gross earnings for major production houses such as Warner Bros, Sony Pictures, Netflix Originals, Paramount, Disney, Fox Studios, and Universal.
+   - Box Office Financial Analysis: Detailed breakdown of budget, opening day collection, weekend collection, and lifetime gross for various production houses.
+
+2. Geographic Analysis:
+   - Movies Count by Country: Distribution of movie counts across different countries including China, France, Germany, India, Japan, South Korea, UK, and USA.
+   - Total Collection by Country: Financial performance of movies in different countries, highlighting domestic and international collections.
+
+3. Production and Distribution:
+   - Total Collection by Distribution Company: Analysis of total collections by major distribution companies like Amazon Prime, Paramount, Fox Studios, Warner Bros, Sony Pictures, and Netflix.
+   - Marketing Budget vs. Opening Day Collection: Comparison of marketing budgets and opening day collections for various production houses.
+
+4. =Ratings and Reviews:
+   - Movies Count by Language: Breakdown of movie counts by language, including German, Tamil, French, Japanese, English, Chinese, Telugu, and Spanish.
+   - Budget and IMDb Rating by Genre: Correlation between budget and IMDb ratings across different genres such as Action, Adventure, Animation, Comedy, Drama, Horror, Romance, Sci-Fi, and Thriller.
+
+5. Analytics & QA:
+   - Total Movies: Overview of the total number of movies analyzed.
+   - Total Budget and Lifetime Gross: Summary of the total budget and lifetime gross of all movies included in the dashboard.
+
+### Additional Details
+
+- Data Sources: The data used in this dashboard is sourced from various movie databases and financial reports.
+- Tools and Technologies: The dashboard is built using data visualization tool Power BI.
+- Usage: This dashboard is intended for use by movie industry analysts, production houses, and financial analysts to gain insights into movie performance and make informed decisions.
+
